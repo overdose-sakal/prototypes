@@ -1,0 +1,30 @@
+@media (max-width: 575px) {
+
+  .login-reg {
+    position: fixed;
+    margin: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    justify-content: center !important;
+    align-items: center;
+    width: 100%;
+    background: white;
+    padding: 5px 0;
+  }
+
+  .login-reg button {
+    margin: 0;
+    width: 48%;
+  }
+  
+#dwn {
+  display: flex;
+  flex-direction: column;
+
+}
+#dwn button {
+  width: 100%;
+}
+
+}
